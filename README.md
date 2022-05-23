@@ -1,7 +1,7 @@
 # MASM :computer: :wrench:
-MASM is an assembler that allows direct access to x86 processors.   
-
-
+**MASM** is an assembler that allows direct access to x86 processors.     
+<br />
+<br />
 **Advantages?**
 1. Agile & memory efficient :zap:  
 2. Optimized processor utility :nut_and_bolt:  
