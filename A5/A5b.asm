@@ -29,8 +29,8 @@ mov ecx, 15
 		mul bl
 		add bl, counter1
 		mov eax, ebx
-		movzx ebx, sampChar
 		call SetTextColor
+		movzx eax, sampChar
 		call WriteString
 		inc counter2
 	loop l2
